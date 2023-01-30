@@ -48,7 +48,7 @@ body{
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
-  height: 138px;
+  height: 100px;
   pointer-events: none;
   transition: 0.5s;
 }
