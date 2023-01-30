@@ -54,7 +54,7 @@ body{
 }
 .card:hover img{
   left: 78%;
-  height: 200px;
+  height: 100px;
 }
 .card .content{
   position: relative;
